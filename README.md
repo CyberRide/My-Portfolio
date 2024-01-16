@@ -1,1 +1,1 @@
-![avinashkranjan.github.io](https://socialify.git.ci/avinashkranjan/avinashkranjan.github.io/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![My-Portfolio](https://socialify.git.ci/CyberRide/My-Portfolio/image?font=Raleway&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Light)
